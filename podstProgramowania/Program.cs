@@ -25,11 +25,6 @@ namespace a_podstProgramowania
             suma = x + y;
             Console.WriteLine("{0}+{1}={2}", x, y, suma);
             Console.ReadKey();
-
-
-
-        }
-
-     
+        }    
     }
 }
