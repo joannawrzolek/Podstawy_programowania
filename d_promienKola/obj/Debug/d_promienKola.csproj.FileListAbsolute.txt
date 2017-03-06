@@ -4,3 +4,6 @@ C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\d_promi
 C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\d_promienKola\obj\Debug\d_promienKola.exe
 C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\d_promienKola\obj\Debug\d_promienKola.pdb
 C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\d_promienKola\obj\Debug\d_promienKola.csprojResolveAssemblyReference.cache
+D:\Projekty\Podstawy_programowania\d_promienKola\bin\Debug\d_promienKola.exe.config
+D:\Projekty\Podstawy_programowania\d_promienKola\obj\Debug\d_promienKola.exe
+D:\Projekty\Podstawy_programowania\d_promienKola\obj\Debug\d_promienKola.pdb
