@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\z_codewars\bin\Debug\z_codewars.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\z_codewars\bin\Debug\z_codewars.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\z_codewars\bin\Debug\z_codewars.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\z_codewars\obj\Debug\z_codewars.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\z_codewars\obj\Debug\z_codewars.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\z_codewars\obj\Debug\z_codewars.csprojResolveAssemblyReference.cache

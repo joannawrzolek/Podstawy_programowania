@@ -1,0 +1,5 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\d_kolo\bin\Debug\d_kolo.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\d_kolo\bin\Debug\d_kolo.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\d_kolo\bin\Debug\d_kolo.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\d_kolo\obj\Debug\d_kolo.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\d_kolo\obj\Debug\d_kolo.pdb

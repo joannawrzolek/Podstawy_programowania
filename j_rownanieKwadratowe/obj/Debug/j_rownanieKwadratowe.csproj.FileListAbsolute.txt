@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\j_rownanieKwadratowe\bin\Debug\j_rownanieKwadratowe.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\j_rownanieKwadratowe\bin\Debug\j_rownanieKwadratowe.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\j_rownanieKwadratowe\bin\Debug\j_rownanieKwadratowe.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\j_rownanieKwadratowe\obj\Debug\j_rownanieKwadratowe.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\j_rownanieKwadratowe\obj\Debug\j_rownanieKwadratowe.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\j_rownanieKwadratowe\obj\Debug\j_rownanieKwadratowe.pdb

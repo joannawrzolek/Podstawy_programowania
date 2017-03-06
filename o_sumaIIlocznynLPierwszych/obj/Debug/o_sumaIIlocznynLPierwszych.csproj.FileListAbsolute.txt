@@ -1,0 +1,5 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\o_sumaIIlocznynLPierwszych\bin\Debug\o_sumaIIlocznynLPierwszych.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\o_sumaIIlocznynLPierwszych\bin\Debug\o_sumaIIlocznynLPierwszych.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\o_sumaIIlocznynLPierwszych\bin\Debug\o_sumaIIlocznynLPierwszych.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\o_sumaIIlocznynLPierwszych\obj\Debug\o_sumaIIlocznynLPierwszych.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\o_sumaIIlocznynLPierwszych\obj\Debug\o_sumaIIlocznynLPierwszych.pdb

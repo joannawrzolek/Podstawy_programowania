@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_ClearArray\bin\Debug\x_ClearArray.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_ClearArray\bin\Debug\x_ClearArray.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_ClearArray\bin\Debug\x_ClearArray.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_ClearArray\obj\Debug\x_ClearArray.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_ClearArray\obj\Debug\x_ClearArray.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_ClearArray\obj\Debug\x_ClearArray.pdb

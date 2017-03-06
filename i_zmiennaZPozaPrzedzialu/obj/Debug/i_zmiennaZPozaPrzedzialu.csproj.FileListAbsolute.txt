@@ -1,0 +1,8 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\i_zmiennaZPozaPrzedzialu\bin\Debug\i_zmiennaZPozaPrzedzialu.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\i_zmiennaZPozaPrzedzialu\bin\Debug\i_zmiennaZPozaPrzedzialu.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\i_zmiennaZPozaPrzedzialu\bin\Debug\i_zmiennaZPozaPrzedzialu.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\i_zmiennaZPozaPrzedzialu\obj\Debug\i_zmiennaZPozaPrzedzialu.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\i_zmiennaZPozaPrzedzialu\obj\Debug\i_zmiennaZPozaPrzedzialu.pdb
+D:\Projekty\podstProgramowania\i_zmiennaZPozaPrzedzialu\bin\Debug\i_zmiennaZPozaPrzedzialu.exe.config
+D:\Projekty\podstProgramowania\i_zmiennaZPozaPrzedzialu\obj\Debug\i_zmiennaZPozaPrzedzialu.exe
+D:\Projekty\podstProgramowania\i_zmiennaZPozaPrzedzialu\obj\Debug\i_zmiennaZPozaPrzedzialu.pdb

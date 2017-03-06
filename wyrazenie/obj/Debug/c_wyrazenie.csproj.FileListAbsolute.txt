@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\wyrazenie\bin\Debug\wyrazenie.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\wyrazenie\obj\Debug\wyrazenie.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\wyrazenie\obj\Debug\wyrazenie.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\wyrazenie\bin\Debug\wyrazenie.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\wyrazenie\bin\Debug\wyrazenie.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\wyrazenie\obj\Debug\c_wyrazenie.csprojResolveAssemblyReference.cache

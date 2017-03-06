@@ -1,0 +1,8 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\bin\Debug\podstProgramowania.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\obj\Debug\podstProgramowania.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\obj\Debug\podstProgramowania.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\bin\Debug\podstProgramowania.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\bin\Debug\podstProgramowania.pdb
+D:\Projekty\Podstawy_programowania\podstProgramowania\bin\Debug\podstProgramowania.exe.config
+D:\Projekty\Podstawy_programowania\podstProgramowania\obj\Debug\podstProgramowania.exe
+D:\Projekty\Podstawy_programowania\podstProgramowania\obj\Debug\podstProgramowania.pdb

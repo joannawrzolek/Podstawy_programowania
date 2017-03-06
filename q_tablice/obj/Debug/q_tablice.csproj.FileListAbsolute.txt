@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\q_tablice\bin\Debug\q_tablice.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\q_tablice\bin\Debug\q_tablice.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\q_tablice\bin\Debug\q_tablice.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\q_tablice\obj\Debug\q_tablice.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\q_tablice\obj\Debug\q_tablice.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\q_tablice\obj\Debug\q_tablice.pdb

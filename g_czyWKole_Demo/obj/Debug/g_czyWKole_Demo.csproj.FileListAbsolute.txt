@@ -1,0 +1,5 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\g_czyWKole_Demo\bin\Debug\g_czyWKole_Demo.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\g_czyWKole_Demo\bin\Debug\g_czyWKole_Demo.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\g_czyWKole_Demo\bin\Debug\g_czyWKole_Demo.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\g_czyWKole_Demo\obj\Debug\g_czyWKole_Demo.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\g_czyWKole_Demo\obj\Debug\g_czyWKole_Demo.pdb

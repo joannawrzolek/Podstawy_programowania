@@ -1,0 +1,5 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_sortPrzezWstawianie\bin\Debug\x_sortPrzezWstawianie.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_sortPrzezWstawianie\bin\Debug\x_sortPrzezWstawianie.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_sortPrzezWstawianie\bin\Debug\x_sortPrzezWstawianie.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_sortPrzezWstawianie\obj\Debug\x_sortPrzezWstawianie.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\x_sortPrzezWstawianie\obj\Debug\x_sortPrzezWstawianie.pdb

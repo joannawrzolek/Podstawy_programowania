@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\zamiana\bin\Debug\zamiana.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\zamiana\bin\Debug\zamiana.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\zamiana\bin\Debug\zamiana.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\zamiana\obj\Debug\zamiana.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\zamiana\obj\Debug\zamiana.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\zamiana\obj\Debug\zamiana.pdb

@@ -1,0 +1,5 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_liczbaParzysta\bin\Debug\h_liczbaParzysta.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_liczbaParzysta\bin\Debug\h_liczbaParzysta.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_liczbaParzysta\bin\Debug\h_liczbaParzysta.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_liczbaParzysta\obj\Debug\h_liczbaParzysta.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_liczbaParzysta\obj\Debug\h_liczbaParzysta.pdb

@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\f_max\bin\Debug\f_max.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\f_max\bin\Debug\f_max.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\f_max\bin\Debug\f_max.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\f_max\obj\Debug\f_max.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\f_max\obj\Debug\f_max.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\f_max\obj\Debug\f_max.csprojResolveAssemblyReference.cache

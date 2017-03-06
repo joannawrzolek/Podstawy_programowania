@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\p_zgadnijLiczbe\bin\Debug\p_zgadnijLiczbe.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\p_zgadnijLiczbe\bin\Debug\p_zgadnijLiczbe.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\p_zgadnijLiczbe\bin\Debug\p_zgadnijLiczbe.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\p_zgadnijLiczbe\obj\Debug\p_zgadnijLiczbe.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\p_zgadnijLiczbe\obj\Debug\p_zgadnijLiczbe.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\p_zgadnijLiczbe\obj\Debug\p_zgadnijLiczbe.pdb

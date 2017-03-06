@@ -1,0 +1,5 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\l_whileKara\bin\Debug\l_whileKara.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\l_whileKara\bin\Debug\l_whileKara.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\l_whileKara\bin\Debug\l_whileKara.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\l_whileKara\obj\Debug\l_whileKara.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\l_whileKara\obj\Debug\l_whileKara.pdb

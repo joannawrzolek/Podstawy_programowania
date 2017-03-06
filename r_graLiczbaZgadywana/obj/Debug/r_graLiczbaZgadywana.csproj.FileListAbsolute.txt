@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\r_graLiczbaZgadywana\bin\Debug\r_graLiczbaZgadywana.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\r_graLiczbaZgadywana\bin\Debug\r_graLiczbaZgadywana.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\r_graLiczbaZgadywana\bin\Debug\r_graLiczbaZgadywana.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\r_graLiczbaZgadywana\obj\Debug\r_graLiczbaZgadywana.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\r_graLiczbaZgadywana\obj\Debug\r_graLiczbaZgadywana.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\r_graLiczbaZgadywana\obj\Debug\r_graLiczbaZgadywana.csprojResolveAssemblyReference.cache

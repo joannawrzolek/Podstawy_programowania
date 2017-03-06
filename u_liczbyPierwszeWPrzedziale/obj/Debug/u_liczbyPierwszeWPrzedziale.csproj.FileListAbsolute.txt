@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\u_liczbyPierwszeWPrzedziale\bin\Debug\u_liczbyPierwszeWPrzedziale.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\u_liczbyPierwszeWPrzedziale\bin\Debug\u_liczbyPierwszeWPrzedziale.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\u_liczbyPierwszeWPrzedziale\bin\Debug\u_liczbyPierwszeWPrzedziale.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\u_liczbyPierwszeWPrzedziale\obj\Debug\u_liczbyPierwszeWPrzedziale.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\u_liczbyPierwszeWPrzedziale\obj\Debug\u_liczbyPierwszeWPrzedziale.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\u_liczbyPierwszeWPrzedziale\obj\Debug\u_liczbyPierwszeWPrzedziale.pdb

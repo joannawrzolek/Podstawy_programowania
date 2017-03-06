@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\t_szescLiczbZPrzedzialu\bin\Debug\t_szescLiczbZPrzedzialu.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\t_szescLiczbZPrzedzialu\bin\Debug\t_szescLiczbZPrzedzialu.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\t_szescLiczbZPrzedzialu\bin\Debug\t_szescLiczbZPrzedzialu.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\t_szescLiczbZPrzedzialu\obj\Debug\t_szescLiczbZPrzedzialu.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\t_szescLiczbZPrzedzialu\obj\Debug\t_szescLiczbZPrzedzialu.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\t_szescLiczbZPrzedzialu\obj\Debug\t_szescLiczbZPrzedzialu.pdb

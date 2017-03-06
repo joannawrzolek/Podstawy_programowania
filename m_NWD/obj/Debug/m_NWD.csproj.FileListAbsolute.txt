@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\m_NWD\bin\Debug\m_NWD.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\m_NWD\bin\Debug\m_NWD.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\m_NWD\bin\Debug\m_NWD.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\m_NWD\obj\Debug\m_NWD.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\m_NWD\obj\Debug\m_NWD.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\m_NWD\obj\Debug\m_NWD.pdb

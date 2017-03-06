@@ -1,0 +1,5 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\k_wartoscWyrazenia\bin\Debug\k_wartoscWyrazenia.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\k_wartoscWyrazenia\bin\Debug\k_wartoscWyrazenia.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\k_wartoscWyrazenia\bin\Debug\k_wartoscWyrazenia.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\k_wartoscWyrazenia\obj\Debug\k_wartoscWyrazenia.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\k_wartoscWyrazenia\obj\Debug\k_wartoscWyrazenia.pdb

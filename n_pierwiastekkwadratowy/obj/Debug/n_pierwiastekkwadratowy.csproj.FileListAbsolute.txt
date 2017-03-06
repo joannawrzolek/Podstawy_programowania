@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\n_pierwiastekkwadratowy\bin\Debug\n_pierwiastekkwadratowy.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\n_pierwiastekkwadratowy\bin\Debug\n_pierwiastekkwadratowy.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\n_pierwiastekkwadratowy\bin\Debug\n_pierwiastekkwadratowy.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\n_pierwiastekkwadratowy\obj\Debug\n_pierwiastekkwadratowy.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\n_pierwiastekkwadratowy\obj\Debug\n_pierwiastekkwadratowy.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\n_pierwiastekkwadratowy\obj\Debug\n_pierwiastekkwadratowy.pdb

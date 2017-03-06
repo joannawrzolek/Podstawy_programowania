@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\s_mnozenieMacierzy\bin\Debug\s_mnozenieMacierzy.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\s_mnozenieMacierzy\bin\Debug\s_mnozenieMacierzy.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\s_mnozenieMacierzy\bin\Debug\s_mnozenieMacierzy.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\s_mnozenieMacierzy\obj\Debug\s_mnozenieMacierzy.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\s_mnozenieMacierzy\obj\Debug\s_mnozenieMacierzy.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\s_mnozenieMacierzy\obj\Debug\s_mnozenieMacierzy.pdb

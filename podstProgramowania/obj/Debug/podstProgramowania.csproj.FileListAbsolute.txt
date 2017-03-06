@@ -1,0 +1,6 @@
+c:\users\joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\bin\Debug\podstProgramowania.exe.config
+c:\users\joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\bin\Debug\podstProgramowania.exe
+c:\users\joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\bin\Debug\podstProgramowania.pdb
+c:\users\joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\obj\Debug\podstProgramowania.csprojResolveAssemblyReference.cache
+c:\users\joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\obj\Debug\podstProgramowania.exe
+c:\users\joanka\documents\visual studio 2015\Projects\podstProgramowania\podstProgramowania\obj\Debug\podstProgramowania.pdb

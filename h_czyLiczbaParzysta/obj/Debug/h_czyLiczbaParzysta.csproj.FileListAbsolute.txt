@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_czyLiczbaParzysta\bin\Debug\h_czyLiczbaParzysta.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_czyLiczbaParzysta\bin\Debug\h_czyLiczbaParzysta.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_czyLiczbaParzysta\bin\Debug\h_czyLiczbaParzysta.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_czyLiczbaParzysta\obj\Debug\h_czyLiczbaParzysta.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_czyLiczbaParzysta\obj\Debug\h_czyLiczbaParzysta.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\h_czyLiczbaParzysta\obj\Debug\h_czyLiczbaParzysta.pdb

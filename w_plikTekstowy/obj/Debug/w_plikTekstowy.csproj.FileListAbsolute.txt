@@ -1,0 +1,6 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\w_plikTekstowy\bin\Debug\w_plikTekstowy.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\w_plikTekstowy\bin\Debug\w_plikTekstowy.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\w_plikTekstowy\bin\Debug\w_plikTekstowy.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\w_plikTekstowy\obj\Debug\w_plikTekstowy.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\w_plikTekstowy\obj\Debug\w_plikTekstowy.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\podstProgramowania\w_plikTekstowy\obj\Debug\w_plikTekstowy.pdb
